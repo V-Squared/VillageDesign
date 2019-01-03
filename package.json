@@ -1,0 +1,29 @@
+{
+  "name": "villagedesign",
+  "version": "0.10.0",
+  "description": "Creative contract services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Squared/VillageDesign.git"
+  },
+  "author": "Lukas Chen",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/V-Squared/VillageDesign/issues"
+  },
+  "homepage": "https://github.com/V-Squared/VillageDesign#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass-tilde-importer": "^1.0.2"
+  }
+}
